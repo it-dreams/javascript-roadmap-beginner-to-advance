@@ -11,34 +11,34 @@
 
 ### II.	Variables
 -   a.	Declaration 
-    -   	Let 
-    -   	Var
-    -   	Const
+        -  	Let 
+        -  	Var
+        -  	Const
 
 -   b.	Scope
-    -   	Global
-    -   	Function
-    -   	Block
+        -   Global
+        -  	Function
+        -  	Block
 
 -   c.	Hoisting 
 
 ### III. Data Types and Data Structure 
 -   a.	Primitive Types
-    -   	Undefined
-    -   	Boolean
-    -   	Number
-    -   	BigInt
-    -   	String
-    -   	Symbol 
+        -  	Undefined
+        -  	Boolean
+        -  	Number
+        -  	BigInt
+        -  	String
+        -  	Symbol 
 
 -   b.	Null
 -   c.	Object
 -   d.	Function
 -   e.	Data Structure
-    -  	Array
-    -  	Map / Weak Map
-    -  	Set / Weak Set
-    -  	Date
+        - 	Array
+        - 	Map / Weak Map
+        - 	Set / Weak Set
+        - 	Date
 
 ### IV.	Type Conversion
 -   a.	Explicity Conversion 
@@ -80,3 +80,6 @@
 -   d.	Parameters / Arguments 
 -   e.	Scope
 -   f.	Arrow Functions 
+
+
+
