@@ -16,7 +16,7 @@
     -   	Const
 
 -   b.	Scope
-    -   	Global
+    -   	Global
     -   	Function
     -   	Block
 
